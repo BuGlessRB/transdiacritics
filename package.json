@@ -1,0 +1,29 @@
+{
+  "name": "transdiacritics",
+  "version": "1.0.0",
+  "description": "Converts diacritics to their ASCII equivalent",
+  "main": "transdiacritics.min.js",
+  "browser": "transdiacritics.min.js",
+  "scripts": {
+    "prepare": "./prepfiles"
+  },
+  "sideEffects": false,
+  "dependencies": {},
+  "devDependencies": {},
+  "directories": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/BuGlessRB/transdiacritics"
+  },
+  "keywords": [
+    "uri",
+    "encode",
+    "lossy",
+    "zerodeps"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "author": "Stephen R. van den Berg <srb@cuci.nl>",
+  "license": "(ISC OR GPL-3.0)"
+}
